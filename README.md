@@ -1,32 +1,146 @@
-<h1 align="center">Sukhrob - The PHP Master - Nuraliev</h1>
+<h1 align="center">🤖 Assalomu alaykum, men Ulug'bek! 👋</h1>
 
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<h3 align="center">
+🚀 Future Robotics Engineer | Arduino Developer | Web Developer | Tech Enthusiast
+</h3>
 
-I am Sukhrob Nuraliev. I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life. <br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Arduino+Developer;Robotics+Engineer;Future+Programmer;Never+Stop+Learning!">
+</p>
 
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+---
 
-[![LinkedIn Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)
+## 👨‍💻 Men haqimda
 
-[![Facebook Badge](https://img.shields.io/badge/-Sukhrob_Nuraliev-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sukhrob.nuraliev.9/)](https://www.facebook.com/sukhrob.nuraliev.9/)
+```cpp
+class Ulugbek {
+public:
+    string age = "12";
+    string country = "Uzbekistan";
+    string hobbies[5] = {
+        "Robotics",
+        "Programming",
+        "Web Development",
+        "Football",
+        "Learning New Things"
+    };
 
-[![Instagram Badge](https://img.shields.io/badge/-@sukhrobnuraliev_-D7088A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nuraliev.dev/)](https://www.instagram.com/sukhrobnuraliev_/)
+    string currentLearning[4] = {
+        "Arduino",
+        "C++",
+        "HTML/CSS",
+        "JavaScript"
+    };
 
-[![Telegram Badge](https://img.shields.io/badge/@sukhrobnuraliev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev)
+    string dream = "Become a Robotics Engineer";
+};
+```
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+---
 
-- 💻 Computer: I'm currently working on Laravel & Vue
-- 🧠 Exploring Microservices & Event Driven Architecture
-- 🎥 I teach code on YouTube
-- 💪 Do Bodybuilding & Calisthenics
-- 🚀 Always ready to collaborate for Dev Experiments
-- ✈️ Fun fact: I love to attend Meetups for learning & Conferences for Networking
+## 🚀 Hozirda o'rganayotgan narsalar
 
-## 🚀 Technologies
+- 🤖 Arduino
+- ⚡ C++
+- 🌐 HTML
+- 🎨 CSS
+- 💻 JavaScript
+- 🔧 Electronics
+- 🏆 Robo Soccer
+- 🥊 Robo Sumo
 
-![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+---
+
+## 🛠️ Texnologiyalar
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=arduino,cpp,html,css,js,git,github,vscode"/>
+
+</p>
+
+---
+
+## 📊 GitHub statistikam
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 🤖 Mening loyihalarim
+
+### 🚗 Robo Futbol
+- Arduino UNO
+- L298N Motor Driver
+- Bluetooth Control
+- 4 ta motor
+
+### 🥊 Robo Sumo
+- Ultrasonic Sensor
+- Line Sensor
+- High Speed Motors
+
+### 🌐 Web Loyihalar
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🎯 Mening maqsadlarim
+
+✅ Kuchli dasturchi bo'lish.
+
+✅ Robot muhandisi bo'lish.
+
+✅ Katta texnologik loyihalar yaratish.
+
+✅ O'z robototexnika kompaniyamni ochish.
+
+---
+
+## 📈 Faollik grafigi
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night">
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight">
+</p>
+
+---
+
+## 🌍 Men bilan bog'lanish
+
+<p align="center">
+
+<a href="https://t.me/USERNAME">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<a href="https://github.com/USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+💚 "Never stop learning because life never stops teaching." 💚
+</h3>

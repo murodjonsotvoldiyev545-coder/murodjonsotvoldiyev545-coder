@@ -1,4 +1,4 @@
-[01.07.2026 12:05] Hikmatillo💻🎮👨‍💻👨‍💻 Mamadaliyev: <p align="center"> 
+[01.07.2026 12:05] Ulug'bek💻🎮👨‍💻👨‍💻 Sotvoldiyev: <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0099FF&height=180&section=header&text=Salom%2C%20men%20Ulug'bek%20%20%F0%9F%91%8B" /> 
 </p>
 

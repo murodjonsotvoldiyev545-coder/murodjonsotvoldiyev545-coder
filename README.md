@@ -6,7 +6,7 @@
 <!-- 👨‍💻 CODING FROM HOME BOLASI (GIF) -->
 <!-- ============================================= -->
 <p align="center">
-  <img src="https://github.com/Hikmatillo-Developer/Hikmatillo-Developer/blob/main/assets/coding-boy.gif" 
+  <img src="https://github.com/Hikmatillo-Developer/Ulug'bek-Developer/blob/main/assets/coding-boy.gif" 
        width="320" 
        alt="Coding From Home" 
        style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 255, 153, 0.4);"/>
